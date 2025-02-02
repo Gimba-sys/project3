@@ -1,0 +1,85 @@
+header h2{
+    color: blue;
+    font-family: Times New Roman;
+}
+
+header {
+    background-color: lightgrey;
+    border-radius: 20px;
+}
+
+header a{
+    border: 1px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 25px;
+    background-color: rgb(0, 0, 255);
+    color: rgb(0, 0, 182);
+    text-align: center;
+}
+
+header p{
+    text-align: center;
+    color: blue;
+    font-size:30px;
+    font-family: fantasy;
+    background-color: rgb(169, 169, 169);
+}
+
+.text {
+    font-size: 20px;
+    background-color: lightblue;
+    padding: 5px;
+    border-radius: 3px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+body h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(173, 229, 247);
+    padding: 5px;
+    border-radius: 3px;
+}
+
+img {
+    background-color: lightblue;
+    padding-top: 46px;
+    padding-left: 46px;
+    padding-right: 46px;
+    border-top: 1.5px solid rgb(111, 187, 212);
+    border-right: 1.5px solid rgb(111, 187, 212);
+    border-left: 1.5px solid rgb(111, 187, 212);
+    height: 210px;
+    margin-bottom: -2px;
+
+}
+
+.rt {
+    background-color: lightblue;
+    text-align: center;
+    width: 252px;
+    height: 43px; 
+    margin-top: -3px;
+    border-bottom: 1.5px solid rgb(111, 187, 212);
+    border-left: 1.5px solid rgb(111, 187, 212);
+    border-right: 1.5px solid rgb(111, 187, 212);
+}
+
+b{
+    
+}
+
+div {
+    display: inline-block
+}
+
+select {
+    height: 50px;
+    width: 100px;
+    background-color: lightblue;
+}
+
+
+
